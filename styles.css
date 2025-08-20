@@ -82,6 +82,7 @@ img {
     border: #4a247f solid 0.1rem;
     background-color: lightgrey;
     min-height: 100%;
+    max-width:100%;
 }
 
 #list-info {
